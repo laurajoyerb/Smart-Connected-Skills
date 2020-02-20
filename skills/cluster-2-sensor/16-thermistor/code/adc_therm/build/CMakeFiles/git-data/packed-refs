@@ -1,0 +1,4 @@
+# pack-refs with: peeled fully-peeled 
+9766ca001e8a23f56ca9b1f71a1ba9efd2ab6663 refs/heads/master
+68f6141d3f998c6edf4910a473e4e830c37cb666 refs/heads/weather_branch
+11b5b1cdc40427fc149c33a110892944e53cf10c refs/remotes/origin/master

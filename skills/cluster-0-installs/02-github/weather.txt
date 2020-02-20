@@ -1,0 +1,7 @@
+Today's weather will be high 60s and cloudy.
+
+Tomorrow's weather will be rainy and windy.
+
+Sunday's weather will be sunny.
+
+The current value of the Dow stock exchange is 26,802.64

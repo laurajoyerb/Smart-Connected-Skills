@@ -1,0 +1,6 @@
+# pack-refs with: peeled fully-peeled 
+0b371f6dc26fd9c8a4ef586f027b0d3479eaa7ec refs/heads/master
+12b209de0b7da14bea4fbf9b48bed2dc2fc77faf refs/heads/ultra_uart
+68f6141d3f998c6edf4910a473e4e830c37cb666 refs/heads/weather_branch
+0ea417c37a3b7b1a944e61f2c7d7df13c1705c34 refs/remotes/origin/master
+12b209de0b7da14bea4fbf9b48bed2dc2fc77faf refs/remotes/origin/ultra_uart
